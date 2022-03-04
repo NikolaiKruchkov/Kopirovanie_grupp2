@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 2\CopyGroupPlugin\CopyGroupPlugin\bin\Debug\CopyGroupPlugin.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 2\CopyGroupPlugin\CopyGroupPlugin\bin\Debug\CopyGroupPlugin.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 2\CopyGroupPlugin\CopyGroupPlugin\obj\Debug\CopyGroupPlugin.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 2\CopyGroupPlugin\CopyGroupPlugin\obj\Debug\CopyGroupPlugin.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 2\CopyGroupPlugin\CopyGroupPlugin\obj\Debug\CopyGroupPlugin.pdb
